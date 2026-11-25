@@ -1,0 +1,20 @@
+title: Kokiri Sword KH1
+originalAuthor: LordJamsy
+description: 'Replaces Kingdom Key with the Kokiri Sword from Hyrule Warrior'
+assets:
+- name: remastered/xw_ex_5010.wpn/-9a40.cvbl
+  method: copy
+  source:
+  - name: remastered/xw_ex_5010.wpn/-9a40.cvbl
+- name: remastered/xw_ex_5010.wpn/-9b40.dds
+  method: copy
+  source:
+  - name: remastered/xw_ex_5010.wpn/-9b40.dds
+- name: remastered/xw_ex_5010.wpn/-9b40.dds
+  method: copy
+  source:
+  - name: remastered/xw_ex_5010.wpn/-9b40.dds
+- name: remastered/xw_ex_5010.wpn/-9b40.dds
+  method: copy
+  source:
+  - name: remastered/xw_ex_5010.wpn/-9b40.dds
